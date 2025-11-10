@@ -6,3 +6,4 @@ Personal research repository for document classification competition.
 
 Final Result: Team Project
 -> https://github.com/Leesoomin97/upstage-cv-classification-cv-4
+
