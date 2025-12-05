@@ -1,5 +1,7 @@
 # 🗂️ Document Type Classification -- 개인 실험 레포 (Main Branch)
 
+팀 레포: https://github.com/AIBootcamp16/upstage-cv-classification-cv-4
+
 이 레포지토리는 **문서 타입 이미지 분류 대회**에서\
 제가 수행한 실험들 중, **정제된 결과물만 선별하여 정리한 저장소입니다.
 
